@@ -1,0 +1,35 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "blob": "^0.1.0",
+    "body-parser": "*",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "*",
+    "express-joi-validation": "^4.0.4-beta.0",
+    "express-session": "^1.17.1",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "*",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4",
+    "passport": "^0.4.1",
+    "passport-facebook": "^3.0.0",
+    "passport-jwt": "^4.0.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/hapi__joi": "^17.1.4"
+  }
+}

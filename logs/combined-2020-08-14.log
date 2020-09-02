@@ -1,0 +1,430 @@
+info: APP START ---------- {"timestamp":"2020-08-14 11:15:48"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 11:15:48"}
+info: success {"timestamp":"2020-08-14 11:15:48"}
+info: APP START ---------- {"timestamp":"2020-08-14 11:24:00"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 11:24:00"}
+info: success {"timestamp":"2020-08-14 11:24:00"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:26:16"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:27:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:27:09"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:27:10"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:13"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:13"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:13"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:14"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:14"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:14"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:14"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:15"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:15"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:27:15"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 11:27:20"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:27:53"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:27:55"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:27:56"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:29:54"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:33:21"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:54:15"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:59:09"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:59:09"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:59:11"}
+info: Start Search all feald {"timestamp":"2020-08-14 11:59:11"}
+info: Start getUser - - - {"timestamp":"2020-08-14 11:59:57"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:03:09"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:22:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:23:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:23:27"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:23:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:24:10"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:24:36"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:25:23"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:25:32"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:26:00"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:26:14"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:27:16"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:27:52"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:28:11"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:28:50"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:29:58"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:30:34"}
+info: Start adduser - - - {"timestamp":"2020-08-14 12:30:54"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:30:55"}
+info: Start adduser - - - {"timestamp":"2020-08-14 12:30:56"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:30:56"}
+error: User add Error: MongoError: E11000 duplicate key error collection: template.users index: email_1 dup key: { : "aramyan_aram@mail.ru" } {"timestamp":"2020-08-14 12:30:56"}
+info: Start adduser - - - {"timestamp":"2020-08-14 12:30:58"}
+error: User add Error: MongoError: E11000 duplicate key error collection: template.users index: email_1 dup key: { : "aramyan_aram@mail.ru" } {"timestamp":"2020-08-14 12:30:58"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:30:58"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:32:16"}
+info: Start adduser - - - {"timestamp":"2020-08-14 12:32:39"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:32:39"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:32:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:32:46"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:34:50"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:53"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:53"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:53"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:53"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:53"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:54"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:54"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:56"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:56"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:56"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:56"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:56"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:56"}
+info: Start Search all feald {"timestamp":"2020-08-14 12:34:57"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:35:00"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:35:01"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:35:03"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:35:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:35:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:35:08"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:35:54"}
+info: APP START ---------- {"timestamp":"2020-08-14 12:45:28"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 12:45:28"}
+info: success {"timestamp":"2020-08-14 12:45:28"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:51:36"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:51:37"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:51:57"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:52:01"}
+info: Start User update --- {"timestamp":"2020-08-14 12:52:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:52:25"}
+info: APP START ---------- {"timestamp":"2020-08-14 12:55:06"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 12:55:07"}
+info: success {"timestamp":"2020-08-14 12:55:07"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:55:07"}
+info: Start User update --- {"timestamp":"2020-08-14 12:55:17"}
+error: Validate Error: ValidationError: "_id" is not allowed {"timestamp":"2020-08-14 12:55:17"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:55:17"}
+info: APP START ---------- {"timestamp":"2020-08-14 12:58:55"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 12:58:55"}
+info: success {"timestamp":"2020-08-14 12:58:55"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:58:56"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:58:58"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:58:59"}
+info: Start User update --- {"timestamp":"2020-08-14 12:59:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:59:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:59:12"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:59:14"}
+info: Start User update --- {"timestamp":"2020-08-14 12:59:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 12:59:25"}
+info: APP START ---------- {"timestamp":"2020-08-14 12:59:59"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 12:59:59"}
+info: success {"timestamp":"2020-08-14 12:59:59"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:00:00"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:00:01"}
+info: Start User update --- {"timestamp":"2020-08-14 13:00:27"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:00:27"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:01:01"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:02:12"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:04:00"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 13:04:02"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 13:04:04"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 13:04:06"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 13:04:09"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:04:13"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:04:15"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:04:29"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:04:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:05:05"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:05:13"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:05:21"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:05:33"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:05:38"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:05:51"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:06:15"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:06:46"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:06:59"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:07:13"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:07:21"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 13:07:28"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:07:30"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:07:58"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:08:07"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:08:22"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:13:30"}
+info: Start User Delete --- {"timestamp":"2020-08-14 13:13:40"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:13:40"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:14:12"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:14:15"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:14:16"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:15:46"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:17:18"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:17:56"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:19:15"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:19:16"}
+info: success {"timestamp":"2020-08-14 13:19:16"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:22:57"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:22:57"}
+info: success {"timestamp":"2020-08-14 13:22:57"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:24:02"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:24:03"}
+info: success {"timestamp":"2020-08-14 13:24:03"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:26:11"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:26:11"}
+info: success {"timestamp":"2020-08-14 13:26:11"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:26:51"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:26:51"}
+info: success {"timestamp":"2020-08-14 13:26:51"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:28:18"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:28:18"}
+info: success {"timestamp":"2020-08-14 13:28:18"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:28:52"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:28:52"}
+info: success {"timestamp":"2020-08-14 13:28:52"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:33:36"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:33:36"}
+info: success {"timestamp":"2020-08-14 13:33:36"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:34:38"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:34:38"}
+info: success {"timestamp":"2020-08-14 13:34:38"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:37:53"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:37:53"}
+info: success {"timestamp":"2020-08-14 13:37:53"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:39:16"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:39:16"}
+info: success {"timestamp":"2020-08-14 13:39:16"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:41:29"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:41:29"}
+info: success {"timestamp":"2020-08-14 13:41:29"}
+info: APP START ---------- {"timestamp":"2020-08-14 13:42:05"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 13:42:05"}
+info: success {"timestamp":"2020-08-14 13:42:05"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:44:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:45:49"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:45:59"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:46:00"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:46:02"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 13:46:04"}
+info: Start Get User by Role --- {"timestamp":"2020-08-14 13:46:05"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:46:08"}
+info: Start Search all feald {"timestamp":"2020-08-14 13:46:11"}
+info: Start Search all feald {"timestamp":"2020-08-14 13:46:11"}
+info: Start Search all feald {"timestamp":"2020-08-14 13:46:12"}
+info: Start Search all feald {"timestamp":"2020-08-14 13:46:14"}
+info: Start Search all feald {"timestamp":"2020-08-14 13:46:14"}
+info: Start Search all feald {"timestamp":"2020-08-14 13:46:14"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:46:15"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:46:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 13:47:20"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:28"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:29"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:37"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:38"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:38"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:39"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:40"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:41"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:42"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:42"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:43"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:48"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:48"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:21:52"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:22:01"}
+info: Start getUser - - - {"timestamp":"2020-08-14 15:23:17"}
+info: APP START ---------- {"timestamp":"2020-08-14 15:27:07"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 15:27:07"}
+info: success {"timestamp":"2020-08-14 15:27:07"}
+info: APP START ---------- {"timestamp":"2020-08-14 15:27:20"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 15:27:20"}
+info: success {"timestamp":"2020-08-14 15:27:20"}
+info: APP START ---------- {"timestamp":"2020-08-14 15:27:36"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 15:27:36"}
+info: success {"timestamp":"2020-08-14 15:27:36"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:00:55"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:01:29"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:03:47"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:05:05"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:05:23"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:07:08"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:07:19"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:10:00"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:10:18"}
+info: APP START ---------- {"timestamp":"2020-08-14 16:12:56"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 16:12:57"}
+info: success {"timestamp":"2020-08-14 16:12:57"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:15:12"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:15:26"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:15:53"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:18:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:18:46"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:18:46"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:20:01"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:21:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:21:11"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:21:20"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:21:32"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:21:34"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:21:35"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:21:59"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:26:31"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:27:15"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:27:21"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:28:16"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:29:08"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:29:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:29:58"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:30:12"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:30:52"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:31:10"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:32:17"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:35:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:35:33"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:35:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:35:54"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:36:02"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:38:03"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:40:42"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:43:23"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:44:22"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:45:03"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:46:13"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:47:17"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:47:39"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:48:10"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:48:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:48:46"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:48:51"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:48:52"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:54:34"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:54:37"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:54:40"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:54:41"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:54:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:55:43"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:55:48"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:56:32"}
+info: APP START ---------- {"timestamp":"2020-08-14 16:58:18"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 16:58:18"}
+info: success {"timestamp":"2020-08-14 16:58:18"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:58:18"}
+error: User GET Error: MongoError: Failed to parse: { find: "users", filter: {}, sort: { name: 1 }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("264d3972-a786-45bc-9733-cd34d1310093") }, $db: "template" }. 'limit' field must be numeric. {"timestamp":"2020-08-14 16:58:18"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:58:24"}
+error: User GET Error: MongoError: Failed to parse: { find: "users", filter: {}, sort: { name: 1 }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("dfdd437f-954b-44c5-9476-078cfdb77b02") }, $db: "template" }. 'limit' field must be numeric. {"timestamp":"2020-08-14 16:58:24"}
+info: APP START ---------- {"timestamp":"2020-08-14 16:58:43"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 16:58:43"}
+info: success {"timestamp":"2020-08-14 16:58:43"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:58:50"}
+info: APP START ---------- {"timestamp":"2020-08-14 16:59:06"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 16:59:06"}
+info: success {"timestamp":"2020-08-14 16:59:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:59:10"}
+info: APP START ---------- {"timestamp":"2020-08-14 16:59:34"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 16:59:35"}
+info: success {"timestamp":"2020-08-14 16:59:35"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:59:39"}
+info: Start getUser - - - {"timestamp":"2020-08-14 16:59:42"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:00:37"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:00:40"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:01:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:01:07"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:01:11"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:01:42"}
+info: Start adduser - - - {"timestamp":"2020-08-14 17:02:01"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:01"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:08"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:19"}
+info: Start adduser - - - {"timestamp":"2020-08-14 17:02:26"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:26"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:28"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:32"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:35"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:37"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:40"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:02:49"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:16:29"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:16:33"}
+error: User GET Error: MongoError: Skip value must be non-negative, but received: -5 {"timestamp":"2020-08-14 17:16:33"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:16:39"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:17:23"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:17:41"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:17:59"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:18:18"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:18:31"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:09"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:11"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:13"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:19"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:22"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:29"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:31"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:36"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:39"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:43"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:47"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:49"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:52"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:53"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:19:56"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:08"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:13"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:15"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:17"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:18"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:19"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:22"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:23"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:24"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:26"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:27"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:38"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:43"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:51"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:55"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:30:56"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:31:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:31:27"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:31:32"}
+info: APP START ---------- {"timestamp":"2020-08-14 17:34:44"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 17:34:44"}
+info: success {"timestamp":"2020-08-14 17:34:44"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:13"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:14"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:43"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:51"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:53"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:54"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:56"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:37:59"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:38:02"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:38:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:38:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:38:11"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:38:54"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:38:58"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:39:00"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:39:01"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:39:02"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:39:04"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:39:05"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:39:05"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:40:45"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:43:25"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:44:06"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:45:29"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:46:23"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:47:35"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:49:28"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:49:51"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:50:19"}
+info: Start getUser - - - {"timestamp":"2020-08-14 17:50:40"}
+info: APP START ---------- {"timestamp":"2020-08-14 17:54:59"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 17:54:59"}
+info: success {"timestamp":"2020-08-14 17:54:59"}
+info: APP START ---------- {"timestamp":"2020-08-14 17:59:13"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-14 17:59:14"}
+info: success {"timestamp":"2020-08-14 17:59:14"}

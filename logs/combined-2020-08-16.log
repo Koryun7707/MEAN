@@ -1,0 +1,189 @@
+info: APP START ---------- {"timestamp":"2020-08-16 10:22:05"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:22:06"}
+info: success {"timestamp":"2020-08-16 10:22:06"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:22:57"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:24:25"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:24:25"}
+info: success {"timestamp":"2020-08-16 10:24:25"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:24:39"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:24:39"}
+info: success {"timestamp":"2020-08-16 10:24:39"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:27:25"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:27:25"}
+info: success {"timestamp":"2020-08-16 10:27:25"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:28:39"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:28:39"}
+info: success {"timestamp":"2020-08-16 10:28:39"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:30:54"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:30:54"}
+info: success {"timestamp":"2020-08-16 10:30:54"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:33:32"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:33:32"}
+info: success {"timestamp":"2020-08-16 10:33:32"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:36:46"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:36:46"}
+info: success {"timestamp":"2020-08-16 10:36:46"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:37:23"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:37:23"}
+info: success {"timestamp":"2020-08-16 10:37:23"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:42:17"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:42:18"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:42:20"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:42:21"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:42:22"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:42:22"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:47:00"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:47:04"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:47:21"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:47:24"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:48:40"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:48:48"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:49:07"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:49:10"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:49:54"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:50:01"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:50:02"}
+info: success {"timestamp":"2020-08-16 10:50:02"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:50:05"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:50:07"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:50:29"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:50:29"}
+info: success {"timestamp":"2020-08-16 10:50:29"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:50:31"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:50:34"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:51:46"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:51:48"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:54:17"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:54:28"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:54:45"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:54:59"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:55:02"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:55:21"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:55:21"}
+info: success {"timestamp":"2020-08-16 10:55:21"}
+info: Start getUser - - - {"timestamp":"2020-08-16 10:55:22"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 10:55:25"}
+info: APP START ---------- {"timestamp":"2020-08-16 10:55:35"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 10:55:35"}
+info: success {"timestamp":"2020-08-16 10:55:35"}
+info: APP START ---------- {"timestamp":"2020-08-16 20:41:04"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 20:41:04"}
+info: success {"timestamp":"2020-08-16 20:41:04"}
+info: Start getUser - - - {"timestamp":"2020-08-16 20:51:12"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 20:51:44"}
+info: APP START ---------- {"timestamp":"2020-08-16 20:52:34"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 20:52:34"}
+info: success {"timestamp":"2020-08-16 20:52:34"}
+info: Start getUser - - - {"timestamp":"2020-08-16 20:52:35"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 20:52:38"}
+info: APP START ---------- {"timestamp":"2020-08-16 20:54:09"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 20:54:09"}
+info: success {"timestamp":"2020-08-16 20:54:09"}
+info: Start getUser - - - {"timestamp":"2020-08-16 20:54:13"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 20:54:17"}
+info: Start getUser - - - {"timestamp":"2020-08-16 20:57:41"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 20:57:44"}
+info: APP START ---------- {"timestamp":"2020-08-16 20:59:58"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 20:59:58"}
+info: success {"timestamp":"2020-08-16 20:59:58"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:00:01"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:00:04"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:02:03"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:02:41"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:02:56"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:04:13"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:04:27"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:05:32"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:06:01"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:06:11"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:06:32"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:06:43"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:07:39"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:08:10"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:08:40"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:11:04"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:11:40"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:12:18"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:12:18"}
+info: success {"timestamp":"2020-08-16 21:12:18"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:12:20"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:12:54"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:13:54"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:13:58"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:15:34"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:15:59"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:16:05"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:17:10"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:17:10"}
+info: success {"timestamp":"2020-08-16 21:17:10"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:17:11"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:17:15"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:31:17"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:31:22"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:36:32"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:36:32"}
+info: success {"timestamp":"2020-08-16 21:36:32"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:41:59"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:41:59"}
+info: success {"timestamp":"2020-08-16 21:41:59"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:42:32"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:42:46"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:43:12"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:43:12"}
+info: success {"timestamp":"2020-08-16 21:43:12"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:43:13"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:43:17"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 21:43:17"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:46:52"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:46:52"}
+info: success {"timestamp":"2020-08-16 21:46:52"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:46:53"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:46:58"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 21:46:58"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:47:35"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:48:03"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:48:03"}
+info: success {"timestamp":"2020-08-16 21:48:03"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:48:04"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:48:09"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:48:39"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:48:45"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:49:03"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:49:03"}
+info: success {"timestamp":"2020-08-16 21:49:03"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:49:03"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:49:08"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 21:49:08"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:51:31"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:51:31"}
+info: success {"timestamp":"2020-08-16 21:51:31"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:51:32"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:51:36"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 21:51:36"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:56:17"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:56:17"}
+info: success {"timestamp":"2020-08-16 21:56:17"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:56:18"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:56:21"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 21:56:21"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:56:39"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:56:39"}
+info: success {"timestamp":"2020-08-16 21:56:39"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:59:10"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:59:10"}
+info: success {"timestamp":"2020-08-16 21:59:10"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:59:11"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:59:16"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 21:59:16"}
+info: APP START ---------- {"timestamp":"2020-08-16 21:59:30"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 21:59:30"}
+info: success {"timestamp":"2020-08-16 21:59:30"}
+info: Start getUser - - - {"timestamp":"2020-08-16 21:59:33"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 21:59:37"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 21:59:37"}
+info: APP START ---------- {"timestamp":"2020-08-16 22:03:11"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-16 22:03:12"}
+info: success {"timestamp":"2020-08-16 22:03:12"}
+info: Start getUser - - - {"timestamp":"2020-08-16 22:03:12"}
+info: Start Upload file - - - {"timestamp":"2020-08-16 22:03:16"}
+error:  Error: please upload a file {"timestamp":"2020-08-16 22:03:16"}

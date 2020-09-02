@@ -1,0 +1,225 @@
+<div class="container ">
+  <a href="/login"> <button class="btn btn-info" type="button" mdbBtn color="primary" mdbWavesEffect>Login</button></a>
+</div>
+<div class="container ">
+ <button (click)="logoutUser()" class="btn btn-warning" type="button" mdbBtn color="primary" mdbWavesEffect>LogOut</button>
+</div>
+<!--DropDown-->
+<div class="row p-3">
+  <div class="col">
+    <div ngbDropdown class="d-inline-block">
+<!--      <button class="btn btn-outline-primary" id="dropdownBasic1" ngbDropdownToggle>Role</button>-->
+<!--      <div ngbDropdownMenu aria-labelledby="dropdownBasic1">-->
+        <select class="selectpicker "  (change)="selectRole($event)" >
+
+          <option selected  value = ''>--All--</option>
+          <ng-container *ngFor="let temp of uniqueRole">
+            <option value = '{{temp}}'>{{temp}}</option>
+          </ng-container>>
+
+
+        </select>
+<!--        <button (click)="getUsertemp()" ngbDropdownItem>All</button>-->
+<!--        <ng-container *ngFor="let temp of uniqueRole">-->
+<!--          <button ngbDropdownItem  (click)="getUsertemp(temp)" href='#'>{{temp}}</button>-->
+<!--        </ng-container>-->
+<!--      </div>-->
+    </div>
+  </div>
+
+  <div class="input-group p-3 ">
+    <input [(ngModel)]="searchText" (ngModelChange)="getUsertemp()" type="text" class="form-control" placeholder="Search"
+           aria-label="Recipient's username" aria-describedby="basic-addon2">
+    <div class="input-group-append">
+      <button class="btn btn-outline-secondary" type="button">Search</button>
+    </div>
+  </div>
+
+  <table class="table table-white">
+    <thead>
+    <tr>
+      <th id="1" (click)="sort($event)" role="button" scope="col"><fa-icon [icon]="faSort"></fa-icon>Name</th>
+      <th id="2" (click)="sort($event)" role="button" scope="col"><fa-icon [icon]="faSort"></fa-icon>Surname</th>
+      <th id="3" (click)="sort($event)" role="button" scope="col"><fa-icon [icon]="faSort"></fa-icon>Email</th>
+      <th id="4" (click)="sort($event)" role="button" scope="col"><fa-icon [icon]="faSort"></fa-icon>Role</th>
+    </tr>
+    </thead>
+    <tbody>
+
+
+    <tr *ngFor="let temp of arr | paginate: config">
+      <th scope="row">{{temp.name}}</th>
+      <td>{{temp.surname}}</td>
+      <td>{{temp.email}}</td>
+      <td>{{temp.role}}</td>
+      <td>
+        <button class="btn btn-warning" (click)="open(mymodalUpdate); openModalUpdate(temp)" data-toggle="modal"
+                data-target="#ModalUpdate"><fa-icon [icon]="faEdit"></fa-icon>
+        </button>
+      </td>
+      <td>
+        <button (click)="deleteUsertemp(temp._id)" class="btn btn-danger"><fa-icon [icon]="faTrash"></fa-icon></button>
+      </td>
+
+  <td>
+    <button class="btn btn-success" (click)="open(modalUpload);openModalUpload(temp._id,temp.role)" data-toggle = 'modal'
+            data-target="#ModalUpload"><fa-icon [icon]="faUpload"></fa-icon>
+    </button>
+  </td>
+      <td>
+        <button class="btn " (click)="openFile(temp._id);"><fa-icon [icon]="faEye"></fa-icon> </button>
+      </td>
+    </tr>
+
+    </tbody>
+    <pagination-controls (pageChange)="pageChanged($event)"></pagination-controls>
+  </table>
+  <!--DropDown Table Size-->
+  <div class="p-3">
+    <select class="selectpicker "  (change)="selectedChange($event)">
+      <option value = 5>5</option>
+      <option selected value = 10>10</option>
+    <option value = 15>15</option>
+    <option value = 20>20</option>
+    </select>
+  </div>
+
+
+
+  <button class="btn btn-lg btn-outline-primary m-0 pr-3" (click)="open(mymodal)"> Add New Row</button>
+<!--  Add User Modal -->
+
+  <ng-template #mymodal let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">Add New Row</h4>
+      <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">×</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <form #myForm="ngForm" class="form-horizontal">
+        <div class="form-group">
+          <label for="name">Name:</label>
+          <input [(ngModel)]="name" name="name" type="email" class="form-control" id="name" #Name="ngModel" required
+                 minlength="3">
+          <div [hidden]="Name.valid || Name.untouched" class="alert alert-danger">
+            Wrong Name
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="surname">surname:</label>
+          <input [(ngModel)]="surname" name="surname" type="text" class="form-control" id="surname" #Surname="ngModel"
+                 required minlength="3">
+          <div [hidden]="Surname.valid || Surname.untouched" class="alert alert-danger">
+            Wrong Surname
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input [(ngModel)]="email" name="email" type="text" class="form-control" id="email" #Email="ngModel"
+                 required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+          <div [hidden]="Email.valid || Email.untouched" class="alert alert-danger">
+            Incorrect email
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="surname">role:</label>
+          <input [(ngModel)]="role" name="role" type="text" class="form-control" id="role" #Role="ngModel" required
+                 minlength="3" maxlength="15">
+          <div [hidden]="Role.valid || Role.untouched" class="alert alert-danger">
+            Wrong Role
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <div class="modal-footer">
+        <button [disabled]="Name.invalid || Email.invalid || Surname.invalid || Role.invalid"
+                (click)="modal.close(); addUsertemp() " type="button" class="btn btn-primary" data-dismiss="modal">Save
+        </button>
+      </div>
+    </div>
+  </ng-template>
+
+
+
+  <!-- Modal Update-->
+
+  <ng-template #mymodalUpdate let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title-update">Edit User</h4>
+      <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">×</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <form class="form-horizontal">
+        <div class="form-group">
+          <label for="name">Name:</label>
+          <input [(ngModel)]="name" name="name" type="email" class="form-control" #updName='ngModel' required
+                 minlength="3" maxlength="15">
+          <div [hidden]="updName.valid || updName.untouched" class="alert alert-danger">
+            Wrong Name
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="surname">surname:</label>
+          <input [(ngModel)]="surname" name="surname" type="text" class="form-control" #updSurname='ngModel' required
+                 minlength="3" maxlength="15">
+          <div [hidden]="updSurname.valid || updSurname.untouched" class="alert alert-danger">
+            Wrong Surname
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input [(ngModel)]="email" name="email" type="text" class="form-control" #updEmail='ngModel' required
+                 pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$">
+          <div [hidden]="updEmail.valid || updEmail.untouched" class="alert alert-danger">
+            Incorrect email
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="surname">role:</label>
+          <input [(ngModel)]="role" name="role" type="text" class="form-control" #updRole='ngModel' required
+                 minlength="3" maxlength="15">
+          <div [hidden]="updRole.valid || updRole.untouched" class="alert alert-danger">
+            Wrong Role
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <div class="modal-footer">
+        <button [disabled]="updName.invalid || updEmail.invalid || updSurname.invalid || updRole.invalid"
+                (click)="modal.close(); editUser()" type="button" class="btn btn-primary" data-dismiss="modal">Save
+        </button>
+      </div>
+    </div>
+  </ng-template>
+</div>
+
+
+
+<!--Modal Upload-->
+<ng-template #modalUpload let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title-upload">Upload File</h4>
+    <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+      <span aria-hidden="true">×</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <ngx-dropzone [multiple] = 'false' [accept]="controleRoleFile" (change)="selectImage($event)">
+      <ngx-dropzone-label>Drop it</ngx-dropzone-label>
+        <ngx-dropzone-preview *ngFor="let f of file" [removable]="true" (removed)="onRemove(f)">
+          <ngx-dropzone-label>{{ f.name }} ({{ f.type }})</ngx-dropzone-label>
+        </ngx-dropzone-preview>
+    </ngx-dropzone>
+  <div class="modal-footer">
+    <div class="modal-footer">
+      <button class="btn btn-success" type ='submit' (click)="onSubmit(); modal.close()">Upload</button>
+    </div>
+    </div>
+  </div>
+</ng-template>
+

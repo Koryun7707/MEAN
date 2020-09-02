@@ -1,0 +1,28 @@
+info: APP START ---------- {"timestamp":"2020-08-15 10:40:24"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-15 10:40:24"}
+info: success {"timestamp":"2020-08-15 10:40:24"}
+info: APP START ---------- {"timestamp":"2020-08-15 10:41:39"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-15 10:41:39"}
+info: success {"timestamp":"2020-08-15 10:41:39"}
+info: Start getUser - - - {"timestamp":"2020-08-15 10:46:02"}
+info: Start getUser - - - {"timestamp":"2020-08-15 10:48:03"}
+info: Start getUser - - - {"timestamp":"2020-08-15 10:48:49"}
+info: APP START ---------- {"timestamp":"2020-08-15 10:57:50"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-15 10:57:50"}
+info: success {"timestamp":"2020-08-15 10:57:50"}
+info: APP START ---------- {"timestamp":"2020-08-15 11:00:28"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-15 11:00:28"}
+info: success {"timestamp":"2020-08-15 11:00:28"}
+info: APP START ---------- {"timestamp":"2020-08-15 21:07:37"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-15 21:07:37"}
+info: success {"timestamp":"2020-08-15 21:07:37"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:08:36"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:30:33"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:31:41"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:32:00"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:34:48"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:35:16"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:35:36"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:36:18"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:36:35"}
+info: Start getUser - - - {"timestamp":"2020-08-15 21:38:07"}

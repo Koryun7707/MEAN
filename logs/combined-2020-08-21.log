@@ -1,0 +1,7 @@
+info: APP START ---------- {"timestamp":"2020-08-21 10:23:28"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-21 10:23:29"}
+info: success {"timestamp":"2020-08-21 10:23:29"}
+info: Start add user by Auth - - - {"timestamp":"2020-08-21 10:32:24"}
+info: Start add user by Auth - - - {"timestamp":"2020-08-21 10:33:02"}
+info: Start add user by Auth - - - {"timestamp":"2020-08-21 10:33:36"}
+info: Start add user by Auth - - - {"timestamp":"2020-08-21 10:33:45"}

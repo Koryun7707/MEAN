@@ -1,0 +1,3 @@
+info: APP START ---------- {"timestamp":"2020-08-22 16:59:40"}
+info: mongoose trying to connect to mongodb : mongodb://localhost:27017/template {"timestamp":"2020-08-22 16:59:41"}
+info: success {"timestamp":"2020-08-22 16:59:41"}
